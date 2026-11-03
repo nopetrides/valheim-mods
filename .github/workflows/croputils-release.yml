@@ -147,6 +147,6 @@ jobs:
             ashlands-update
             bog-witch-update
             deep-north-update
-          website: https://github.com/nopetrides/modding/tree/main/ValheimMods/Crop_Utils
+          website: https://github.com/nopetrides/valheim-mods/tree/main/ValheimMods/Crop_Utils
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           file: dist/CropUtils_Thunderstore_211.zip
